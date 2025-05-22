@@ -1994,7 +1994,7 @@ videos = [
     "https://i.imgur.com/qjUSIff.mp4"
 ]
 
-@app.route("/api/random-video", methods=["GET"])
+@app.route("/api/girl", methods=["GET"])
 def random_video():
     return jsonify({
         "video_url": random.choice(videos)
