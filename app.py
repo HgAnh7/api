@@ -1,9 +1,9 @@
 from flask import Flask, jsonify
 import random
+import os
 
 app = Flask(__name__)
 
-# Danh sách video (bạn có thể thêm bao nhiêu tùy ý)
 videos = [
     "https://i.imgur.com/H8BnrhM.mp4",
     "https://i.imgur.com/aBcDeFg.mp4",
@@ -17,4 +17,5 @@ def random_video():
     })
 
 if __name__ == "__main__":
-    app.run()
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
