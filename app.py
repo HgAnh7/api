@@ -6,8 +6,11 @@ app = Flask(__name__)
 
 videos = [
     "https://i.imgur.com/H8BnrhM.mp4",
-    "https://i.imgur.com/aBcDeFg.mp4",
-    "https://i.imgur.com/xYzXwVu.mp4"
+    "https://imgur.com/a/uSjWDy1",
+    "https://i.imgur.com/Lyu963Y.mp4",
+    "https://i.imgur.com/ZEObODa.mp4",
+    "https://i.imgur.com/jfmpbZr.mp4",
+    "https://i.imgur.com/YVFRB2Z.mp4",
 ]
 
 @app.route("/api/random-video", methods=["GET"])
