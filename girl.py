@@ -1696,7 +1696,6 @@ videos = [
     "https://i.imgur.com/0iRUjb0.mp4",
     "https://i.imgur.com/HCB1EiJ.mp4",
     "https://i.imgur.com/gmK7OCI.mp4",
-    "https://i.imgur.com/3o2OW8J.mp4",
     "https://i.imgur.com/kTg6HQY.mp4",
     "https://i.imgur.com/Pv3ukt8.mp4",
     "https://i.imgur.com/VzuoDWY.mp4",
