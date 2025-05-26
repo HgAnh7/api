@@ -163,7 +163,6 @@ videos = [
     "https://i.imgur.com/xAextsA.mp4",
     "https://i.imgur.com/qv6Mula.mp4",
     "https://i.imgur.com/1E32c69.mp4",
-    "https://i.imgur.com/bGbUEuB.mp4",
     "https://i.imgur.com/x818gBi.mp4",
     "https://i.imgur.com/6qIKkvf.mp4",
     "https://i.imgur.com/EE6yFDf.mp4",
